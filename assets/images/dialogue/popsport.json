@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-100,
+		-30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-51,
+				-12
+			],
+			"idle_offsets": [
+				-51,
+				-12
+			],
+			"loop_name": "talkpops",
+			"idle_name": "talkpops"
+		},
+		{
+			"loop_offsets": [
+				50,
+				-10
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				50,
+				-10
+			],
+			"loop_name": "madpops",
+			"idle_name": "madpops"
+		}
+	],
+	"image": "popsport"
+}

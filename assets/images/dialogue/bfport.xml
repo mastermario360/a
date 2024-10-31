@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf happy0000" x="10" y="10" width="326" height="267"/>
+	<SubTexture name="bf hi0000" x="346" y="10" width="348" height="268"/>
+	<SubTexture name="bf madsmug0000" x="704" y="10" width="268" height="267"/>
+	<SubTexture name="bf ohshit0000" x="10" y="288" width="268" height="267"/>
+	<SubTexture name="bf scared0000" x="288" y="288" width="268" height="267"/>
+	<SubTexture name="bf smug0000" x="566" y="288" width="268" height="267"/>
+</TextureAtlas>

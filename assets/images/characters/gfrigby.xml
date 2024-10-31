@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfrigby.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dance rigby0000" x="10" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0001" x="10" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0002" x="1002" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0003" x="1002" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0004" x="1994" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0005" x="1994" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0006" x="2986" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0007" x="2986" y="10" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0008" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0009" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0010" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0011" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0012" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0013" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0014" x="10" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0015" x="1002" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0016" x="1002" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0017" x="1994" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0018" x="1994" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0019" x="2986" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0020" x="2986" y="532" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0021" x="10" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0022" x="10" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0023" x="1002" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0024" x="1994" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0025" x="1994" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0026" x="2986" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0027" x="2986" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0028" x="2986" y="1054" width="982" height="512"/>
+	<SubTexture name="gf dance rigby0029" x="2986" y="1054" width="982" height="512"/>
+</TextureAtlas>

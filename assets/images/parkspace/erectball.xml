@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="erectball.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fireball0000" x="10" y="10" width="808" height="809"/>
+	<SubTexture name="fireball0001" x="10" y="10" width="808" height="809"/>
+	<SubTexture name="fireball0002" x="828" y="10" width="808" height="809"/>
+	<SubTexture name="fireball0003" x="828" y="10" width="808" height="809"/>
+	<SubTexture name="fireball0004" x="10" y="829" width="808" height="809"/>
+	<SubTexture name="fireball0005" x="10" y="829" width="808" height="809"/>
+</TextureAtlas>

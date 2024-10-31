@@ -1,0 +1,4 @@
+Zooms the camera :)
+
+Value 1: Duration
+Value 2: Zoom Amount

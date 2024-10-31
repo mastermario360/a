@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-80,
+		140
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf happy",
+			"idle_name": "bf happy"
+		},
+		{
+			"loop_offsets": [
+				-30,
+				4
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-30,
+				3
+			],
+			"loop_name": "bf hi",
+			"idle_name": "bf hi"
+		},
+		{
+			"loop_offsets": [
+				-61,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-61,
+				0
+			],
+			"loop_name": "bf madsmug",
+			"idle_name": "bf madsmug"
+		},
+		{
+			"loop_offsets": [
+				-61,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-61,
+				0
+			],
+			"loop_name": "bf ohshit",
+			"idle_name": "bf ohshit"
+		},
+		{
+			"idle_offsets": [
+				-61,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-61,
+				0
+			],
+			"idle_name": "bf smug",
+			"loop_name": "bf smug"
+		},
+		{
+			"loop_name": "bf scared",
+			"idle_offsets": [
+				-61,
+				0
+			],
+			"idle_name": "bf scared",
+			"anim": "scared",
+			"loop_offsets": [
+				-61,
+				0
+			]
+		}
+	],
+	"image": "bfport"
+}

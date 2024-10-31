@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		210,
+		90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "talkrig",
+			"idle_name": "talkrig"
+		},
+		{
+			"loop_name": "smugrig",
+			"idle_offsets": [
+				58,
+				-60
+			],
+			"idle_name": "smugrig",
+			"anim": "smug",
+			"loop_offsets": [
+				58,
+				-60
+			]
+		},
+		{
+			"loop_name": "readyrig",
+			"idle_offsets": [
+				14,
+				6
+			],
+			"idle_name": "readyrig",
+			"anim": "ready",
+			"loop_offsets": [
+				13,
+				6
+			]
+		},
+		{
+			"loop_name": "madrig",
+			"idle_offsets": [
+				50,
+				-40
+			],
+			"idle_name": "madrig",
+			"anim": "mad",
+			"loop_offsets": [
+				50,
+				-40
+			]
+		},
+		{
+			"loop_name": "easedrig",
+			"idle_offsets": [
+				70,
+				-70
+			],
+			"idle_name": "easedrig",
+			"anim": "eased",
+			"loop_offsets": [
+				70,
+				-70
+			]
+		},
+		{
+			"loop_name": "ughrig",
+			"idle_offsets": [
+				10,
+				42
+			],
+			"idle_name": "ughrig",
+			"anim": "ugh",
+			"loop_offsets": [
+				10,
+				43
+			]
+		}
+	],
+	"image": "rigport"
+}

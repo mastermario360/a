@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbop.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgbop0000" x="10" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0001" x="10" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0002" x="2422" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0003" x="2422" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0004" x="4834" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0005" x="4834" y="10" width="2402" height="1039"/>
+	<SubTexture name="bgbop0006" x="10" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0007" x="10" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0008" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0009" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0010" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0011" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0012" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0013" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0014" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0015" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0016" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0017" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0018" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0019" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0020" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0021" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0022" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0023" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0024" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0025" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0026" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0027" x="2422" y="1059" width="2402" height="1039"/>
+	<SubTexture name="bgbop0028" x="2422" y="1059" width="2402" height="1039"/>
+</TextureAtlas>

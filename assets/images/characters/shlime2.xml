@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shlime2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SHLIME down0000" x="0" y="0" width="556" height="505"/>
+	<SubTexture name="SHLIME down0001" x="0" y="0" width="556" height="505"/>
+	<SubTexture name="SHLIME down0002" x="556" y="0" width="556" height="505"/>
+	<SubTexture name="SHLIME down0003" x="556" y="0" width="556" height="505"/>
+	<SubTexture name="SHLIME idle0000" x="1112" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0001" x="1112" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0002" x="1517" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0003" x="1517" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0004" x="1922" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0005" x="1922" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0006" x="2327" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0007" x="2327" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0008" x="2732" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0009" x="2732" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0010" x="3137" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0011" x="3137" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0012" x="3542" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0013" x="3542" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0014" x="0" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0015" x="0" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0016" x="405" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0017" x="405" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0018" x="810" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0019" x="810" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0020" x="1215" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0021" x="1215" y="505" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0022" x="1112" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME idle0023" x="1112" y="0" width="405" height="502"/>
+	<SubTexture name="SHLIME left0000" x="1620" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0001" x="1620" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0002" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0003" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0004" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0005" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0006" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0007" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0008" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME left0009" x="2049" y="505" width="429" height="524"/>
+	<SubTexture name="SHLIME right0000" x="2478" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0001" x="2478" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0002" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0003" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0004" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0005" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0006" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0007" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0008" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME right0009" x="2934" y="505" width="456" height="532"/>
+	<SubTexture name="SHLIME up0000" x="3390" y="505" width="415" height="618"/>
+	<SubTexture name="SHLIME up0001" x="3390" y="505" width="415" height="618"/>
+	<SubTexture name="SHLIME up0002" x="0" y="1123" width="415" height="618"/>
+	<SubTexture name="SHLIME up0003" x="0" y="1123" width="415" height="618"/>
+</TextureAtlas>

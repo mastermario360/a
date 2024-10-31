@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-129
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				266,
+				-239
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-299
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-129
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-235
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-204
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ialt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-120
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "lalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-181
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "dalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-72
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ualt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-119
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ralt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-204
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-234
+			],
+			"anim": "fired",
+			"fps": 24,
+			"name": "fired",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benson",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "benson",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		62,
+		207
+	],
+	"camera_position": [
+		0,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

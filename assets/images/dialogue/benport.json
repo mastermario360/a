@@ -1,0 +1,63 @@
+{
+	"position": [
+		200,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "benport",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "talk",
+			"loop_name": "talk"
+		},
+		{
+			"idle_offsets": [
+				10,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				10,
+				0
+			],
+			"idle_name": "rage",
+			"loop_name": "rage"
+		},
+		{
+			"loop_name": "think",
+			"idle_offsets": [
+				4,
+				-10
+			],
+			"idle_name": "think",
+			"anim": "think",
+			"loop_offsets": [
+				4,
+				-10
+			]
+		},
+		{
+			"loop_name": "unamuzed",
+			"idle_offsets": [
+				4,
+				-10
+			],
+			"idle_name": "unamuzed",
+			"anim": "unamused",
+			"loop_offsets": [
+				4,
+				-10
+			]
+		}
+	]
+}

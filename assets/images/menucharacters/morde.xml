@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="morde.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle outline0000" x="10" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0001" x="10" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0002" x="310" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0003" x="310" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0004" x="610" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0005" x="610" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0006" x="910" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0007" x="910" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0008" x="1210" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0009" x="1210" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0010" x="1510" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0011" x="1510" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0012" x="1510" y="10" width="290" height="697"/>
+	<SubTexture name="idle outline0013" x="1510" y="10" width="290" height="697"/>
+</TextureAtlas>

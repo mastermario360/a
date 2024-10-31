@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mordeport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="excitedmorde0000" x="10" y="10" width="296" height="412"/>
+	<SubTexture name="ohshitmorde0000" x="316" y="10" width="175" height="399"/>
+	<SubTexture name="readymorde0000" x="501" y="10" width="393" height="404"/>
+	<SubTexture name="smugmorde0000" x="10" y="432" width="290" height="378"/>
+	<SubTexture name="talkmorde0000" x="310" y="432" width="345" height="398"/>
+</TextureAtlas>

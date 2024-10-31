@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits basic0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="credits glow0000" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="freeplay basic0000" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="freeplay glow0000" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="options basic0000" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="options glow0000" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="storymode basic0000" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="storymode glow0000" x="5760" y="1080" width="1920" height="1080"/>
+</TextureAtlas>

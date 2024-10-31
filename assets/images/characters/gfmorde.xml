@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfmorde.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dance morde0000" x="10" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0001" x="10" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0002" x="1002" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0003" x="1002" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0004" x="1994" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0005" x="1994" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0006" x="2986" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0007" x="2986" y="10" width="982" height="568"/>
+	<SubTexture name="gf dance morde0008" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0009" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0010" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0011" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0012" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0013" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0014" x="10" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0015" x="1002" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0016" x="1002" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0017" x="1994" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0018" x="1994" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0019" x="2986" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0020" x="2986" y="588" width="982" height="568"/>
+	<SubTexture name="gf dance morde0021" x="10" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0022" x="10" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0023" x="1002" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0024" x="1994" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0025" x="1994" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0026" x="2986" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0027" x="2986" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0028" x="2986" y="1166" width="982" height="568"/>
+	<SubTexture name="gf dance morde0029" x="2986" y="1166" width="982" height="568"/>
+</TextureAtlas>

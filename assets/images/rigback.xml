@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rigback.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rigback0000" x="10" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0001" x="10" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0002" x="2328" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0003" x="2328" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0004" x="4646" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0005" x="4646" y="10" width="2308" height="1121"/>
+	<SubTexture name="rigback0006" x="10" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0007" x="10" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0008" x="2328" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0009" x="2328" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0010" x="4646" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0011" x="4646" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0012" x="4646" y="1141" width="2308" height="1121"/>
+	<SubTexture name="rigback0013" x="4646" y="1141" width="2308" height="1121"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rigport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easedrig0000" x="10" y="10" width="388" height="275"/>
+	<SubTexture name="madrig0000" x="408" y="10" width="429" height="307"/>
+	<SubTexture name="readyrig0000" x="847" y="10" width="375" height="359"/>
+	<SubTexture name="smugrig0000" x="1232" y="10" width="317" height="276"/>
+	<SubTexture name="talkrig0000" x="1559" y="10" width="311" height="337"/>
+	<SubTexture name="ughrig0000" x="10" y="379" width="277" height="407"/>
+</TextureAtlas>

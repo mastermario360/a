@@ -1,0 +1,67 @@
+{
+	"storyName": "irregular encounter",
+	"hideFreeplay": false,
+	"difficulties": "Hard,Erect",
+	"weekBackground": "regular",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"morde",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"3xhilaration",
+			"morde",
+			[
+				106,
+				93,
+				213
+			]
+		],
+		[
+			"reckless",
+			"rigby",
+			[
+				186,
+				53,
+				73
+			]
+		],
+		[
+			"unemployed",
+			"benson",
+			[
+				175,
+				13,
+				53
+			]
+		],
+		[
+			"supercharge",
+			"bensonangry",
+			[
+				175,
+				13,
+				53
+			]
+		],
+		[
+			"temper-break",
+			"bensonangry",
+			[
+				255,
+				13,
+				13
+			]
+		]
+	],
+	"weekName": "regular"
+}

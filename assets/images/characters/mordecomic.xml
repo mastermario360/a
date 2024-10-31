@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mordecomic.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="504" height="626"/>
+	<SubTexture name="down0001" x="10" y="10" width="504" height="626"/>
+	<SubTexture name="down0002" x="524" y="10" width="504" height="626"/>
+	<SubTexture name="idle0000" x="1038" y="10" width="520" height="645"/>
+	<SubTexture name="idle0001" x="1038" y="10" width="520" height="645"/>
+	<SubTexture name="idle0002" x="1568" y="10" width="520" height="645"/>
+	<SubTexture name="idle0003" x="1568" y="10" width="520" height="645"/>
+	<SubTexture name="idle0004" x="2098" y="10" width="520" height="645"/>
+	<SubTexture name="idle0005" x="2098" y="10" width="520" height="645"/>
+	<SubTexture name="idle0006" x="2628" y="10" width="520" height="645"/>
+	<SubTexture name="idle0007" x="2628" y="10" width="520" height="645"/>
+	<SubTexture name="idle0008" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="idle0009" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="idle0010" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="idle0011" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="idle0012" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="idle0013" x="3158" y="10" width="520" height="645"/>
+	<SubTexture name="left0000" x="10" y="665" width="548" height="631"/>
+	<SubTexture name="left0001" x="10" y="665" width="548" height="631"/>
+	<SubTexture name="left0002" x="568" y="665" width="548" height="631"/>
+	<SubTexture name="right0000" x="1126" y="665" width="514" height="674"/>
+	<SubTexture name="right0001" x="1126" y="665" width="514" height="674"/>
+	<SubTexture name="right0002" x="1650" y="665" width="514" height="674"/>
+	<SubTexture name="up0000" x="2174" y="665" width="532" height="667"/>
+	<SubTexture name="up0001" x="2174" y="665" width="532" height="667"/>
+	<SubTexture name="up0002" x="2716" y="665" width="532" height="667"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-88
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SHLIME idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-94
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SHLIME down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SHLIME up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-72
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SHLIME left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SHLIME right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shlime2",
+	"position": [
+		-80,
+		190
+	],
+	"healthicon": "shlime",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		125,
+		222
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

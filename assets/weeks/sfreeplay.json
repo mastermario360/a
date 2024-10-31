@@ -1,0 +1,85 @@
+{
+	"storyName": "freeplay",
+	"hideFreeplay": false,
+	"difficulties": "Hard",
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"enemy-beaker",
+			"beaker",
+			[
+				155,
+				80,
+				173
+			]
+		],
+		[
+			"cookies",
+			"rigbycomic",
+			[
+				155,
+				80,
+				173
+			]
+		],
+		[
+			"overtime",
+			"gene",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"full-fives",
+			"high",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"new-management",
+			"pibbenson",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"multiversal",
+			"finn",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"summertime",
+			"summertime",
+			[
+				186,
+				140,
+				73
+			]
+		]
+	],
+	"weekName": "freeplay"
+}

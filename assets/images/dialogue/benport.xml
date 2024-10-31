@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="benport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rage0000" x="10" y="10" width="474" height="456"/>
+	<SubTexture name="talk0000" x="494" y="10" width="356" height="421"/>
+	<SubTexture name="think0000" x="10" y="476" width="231" height="415"/>
+	<SubTexture name="unamuzed0000" x="251" y="476" width="230" height="415"/>
+</TextureAtlas>
