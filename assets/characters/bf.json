@@ -164,6 +164,50 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-7
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "LEFTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				29
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "UPALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-5
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "RIGHTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-50
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "DOWNALT",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -175,9 +219,9 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		116,
+		192,
+		255
 	],
 	"camera_position": [
 		0,
