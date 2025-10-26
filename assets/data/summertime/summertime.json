@@ -2439,7 +2439,7 @@
 		"stage": "park",
 		"validScore": true,
 		"sections": 45,
-		"needsVoices": true,
+		"needsVoices": false,
 		"speed": 2.5,
 		"bpm": 109
 	}

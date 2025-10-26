@@ -10,10 +10,10 @@ function onCreate()
 	-- -- background shit
 	makeLuaSprite('bg', 'fanfic/bg', -100, 150);
 	makeLuaSprite('txt', 'fanfic/text', -150, 150);
-	addLuaSprite('bg', false)
-		addLuaSprite('txt', true)
-	scaleLuaSprite('bg', 1.2, 1.2)
-		scaleLuaSprite('txt', 0.9, 0.9)
+	addLuaSprite('bg', false);
+		addLuaSprite('txt', true);
+	scaleLuaSprite('bg', 1.2, 1.2);
+		scaleLuaSprite('txt', 0.9, 0.9);
 end
 function onCreatePost()
 			setProperty("gf.alpha", 0);
